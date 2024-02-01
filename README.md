@@ -1,7 +1,12 @@
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=laveesh21&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Laveesh Tomar</h1>
 <h3 align="center">A passionate frontend developer from India currently pursuing B.tech CSE.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laveesh21" alt="laveesh21" /></a> </p>
 
 - 🔭 I’m currently working on **ApexDevs**
 
