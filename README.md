@@ -5,14 +5,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Laveesh Tomar</h1>
-<h3 align="center">A passionate frontend developer from India currently pursuing B.tech CSE.</h3>
+<h3 align="center">A passionate Fullstack Web Developer from India currently pursuing B.tech CSE.</h3>
 
 
 - 🔭 I’m currently working on **ApexDevs**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Structure and Algorithms*
 
-- 💬 Ask me about **C++,Web Development, Android Development**
+- 💬 Ask me about **C++, Web Development, Android Development**
 
 - 📫 How to reach me **laveeshtomar.royalking@gmail.com**
 
