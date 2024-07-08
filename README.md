@@ -8,13 +8,13 @@
 <h3 align="center">A passionate Fullstack Web Developer from India currently pursuing B.tech CSE.</h3>
 
 
-- 🔭 I’m currently working on **ApexDevs**
+- 🔭 I’m currently working on **KnoxStream**
 
-- 🌱 I’m currently learning **Data Structure and Algorithms*
+- 🌱 I’m currently learning **Data Structure and Algorithms and NextJS*
 
 - 💬 Ask me about **C++, Web Development, Android Development**
 
-- 📫 How to reach me **laveeshtomar.royalking@gmail.com**
+- 📫 How to reach me **laveeshtomar2681@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
